@@ -1,7 +1,9 @@
 
-def sumar(num1, num2):
-    return num1 + num2
+def cuentas(num1, num2):
+    return (num1 + num2) * num1
 
 
 
-print(sumar(2, 3))
+print(cuentas(2, 3))
+
+
